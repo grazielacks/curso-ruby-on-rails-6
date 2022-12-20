@@ -1,0 +1,7 @@
+source 'https://rubygems.org' # de onde vai buscar as gems (nosso caso é as engines)
+
+ruby '3.0.0' # versão do ruby
+
+gem 'enumerate_it'
+gem 'rails', '6.1.7'
+gem 'rspec'
